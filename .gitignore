@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.history/
+
+# OS junk
+Thumbs.db
+desktop.ini
+
+# Local notes / scratch
+*.local.md
+scratch/
+TODO.local
+notes.local/
+
+# Claude Code session artifacts (if any leak in)
+.claude/
+.claude-local/
+
+# Env files (in case secrets ever sneak in)
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log

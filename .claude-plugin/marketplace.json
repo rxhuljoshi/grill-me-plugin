@@ -1,0 +1,17 @@
+{
+  "name": "grill-me",
+  "owner": {
+    "name": "Rahul Joshi",
+    "email": "rahul.joshi@procreator.design"
+  },
+  "plugins": [
+    {
+      "name": "grill-me",
+      "source": {
+        "source": "github",
+        "repo": "rxhuljoshi/grill-me-plugin"
+      },
+      "description": "Interview user relentlessly about a plan/design until every unresolved branch of the decision tree is closed."
+    }
+  ]
+}

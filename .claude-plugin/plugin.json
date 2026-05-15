@@ -1,0 +1,10 @@
+{
+  "name": "grill-me",
+  "version": "0.1.0",
+  "description": "Interview user relentlessly about a plan/design until every unresolved branch of the decision tree is closed. Stress-tests plans before implementation.",
+  "author": {
+    "name": "Rahul Joshi",
+    "email": "rahul.joshi@procreator.design"
+  },
+  "keywords": ["planning", "design-review", "interview", "decision-tree", "stress-test"]
+}
